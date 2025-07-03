@@ -26,7 +26,17 @@ Just a curious dev who loves shipping ideas and messing with code until it works
 
 # ⚙️ GitHub Analytics
 
-![Github Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karan-webdev&theme=dracula)
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan-webdev&theme=dracula" />
+</div>
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karan-webdev&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karan-webdev&theme=dracula" />
+</div>
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karan-webdev&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karan-webdev&theme=dracula" />
+</div>
 <br>
 
 

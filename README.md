@@ -4,10 +4,17 @@
   <img src="/coding-man.gif" alt="coding-man" width="500" />
 </a>
 
+<br>
 
 Just a curious dev who loves shipping ideas and messing with code until it works. 
 
 ![Profile View](https://komarev.com/ghpvc/?username=karan-webdev&color=blueviolet&style=flat)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karan-webdev/karan-webdev/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karan-webdev/karan-webdev/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karan-webdev/karan-webdev/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake.svg">
+</picture>
 
 # 🛠️ My Skills
 

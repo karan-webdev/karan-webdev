@@ -7,22 +7,18 @@ Just a curious dev who loves shipping ideas and messing with code until it works
 <div align="start">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte" /><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,electron,codepen,figma,blank" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,electron,codepen,figma,nodejs" />
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,blank,blank" /><br/>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,blank,blank,blank,blank" /><br/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,unity" />
 
 <!-- Game & Creative -->
-<img src="https://skillicons.dev/icons?i=unity,godot,ps,pr,blank,blank" /><br/>
-
-<!-- Tools & Misc -->
-<img src="https://skillicons.dev/icons?i=git,vscode,powershell,obsidian,kali,blank" />
+<img src="https://skillicons.dev/icons?i=godot,ps,pr,git,vscode,powershell" />
+<img src="https://skillicons.dev/icons?i=obsidian,kali" />
 
 </div>
+
 
 ---
 

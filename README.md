@@ -1,6 +1,9 @@
 # Hey there! <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![coding-man](/coding-man.gif)](https://github.com/karan-webdev)
+<a href="https://github.com/karan-webdev">
+  <img src="/coding-man.gif" alt="coding-man" width="200" />
+</a>
+
 
 Just a curious dev who loves shipping ideas and messing with code until it works. 
 

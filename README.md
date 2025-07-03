@@ -1,4 +1,4 @@
-## Hey there! 👋
+# Hey there! 👋
 
 Just a curious dev who loves shipping ideas and messing with code until it works. 
 
@@ -28,7 +28,7 @@ Just a curious dev who loves shipping ideas and messing with code until it works
 
 # ⚙️ GitHub Analytics
 
-![Github Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xACE3&theme=dracula)
+![Github Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karan-webdev&theme=dracula)
 <br>
 
 # 📞 Contact
@@ -36,5 +36,5 @@ Just a curious dev who loves shipping ideas and messing with code until it works
 You can contact me here:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0xbitshot@gmail.com)  
-[![Follow Me](https://img.shields.io/github/followers/0xACE3?label=Follow%20Me&style=flat&logo=github)](https://github.com/0xACE3)  
+[![Follow Me](https://img.shields.io/github/followers/0xACE3?label=Follow%20Me&style=flat&logo=github)](https://github.com/karan-webdev)  
 ![Profile View](https://komarev.com/ghpvc/?username=0xACE3&color=blueviolet&style=flat)

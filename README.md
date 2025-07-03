@@ -7,15 +7,15 @@ Just a curious dev who loves shipping ideas and messing with code until it works
 <div align="start">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte" />
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,electron,codepen,figma,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte" /> <br>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,electron,codepen,figma,nodejs" /> <br>
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,unity" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,unity" /> <br>
 
 <!-- Game & Creative -->
-<img src="https://skillicons.dev/icons?i=godot,ps,pr,git,vscode,powershell" />
-<img src="https://skillicons.dev/icons?i=obsidian,kali" />
+<img src="https://skillicons.dev/icons?i=godot,ps,pr,git,vscode,powershell" /> <br>
+<img src="https://skillicons.dev/icons?i=obsidian,kali" /> <br>
 
 </div>
 

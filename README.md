@@ -2,6 +2,8 @@
 
 Just a curious dev who loves shipping ideas and messing with code until it works. 
 
+![Profile View](https://komarev.com/ghpvc/?username=karan-webdev&color=blueviolet&style=flat)
+
 # 🛠️ My Skills
 
 <div align="start">
@@ -32,4 +34,3 @@ Just a curious dev who loves shipping ideas and messing with code until it works
 You can contact me here:
 - [telegram](https://t.me/karan9kaushik)
 - [email](mailto:codewithkaran@gmail.com)  <br>
-![Profile View](https://komarev.com/ghpvc/?username=karan-webdev&color=blueviolet&style=flat)

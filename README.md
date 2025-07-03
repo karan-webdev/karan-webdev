@@ -49,4 +49,4 @@ Just a curious dev who loves shipping ideas and messing with code until it works
 # 📞 Contact
 You can contact me here:
 - [telegram](https://t.me/karan9kaushik)
-- [email](mailto:codewithkaran@gmail.com)  <br>
+- [email](mailto:codewithkaran9@gmail.com)  <br>
